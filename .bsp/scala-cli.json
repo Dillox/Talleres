@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/vscode/.sdkman/candidates/scalacli/current/bin/scala-cli",
+    "bsp",
+    "--json-options",
+    "/workspaces/Talleres/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/workspaces/Talleres/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/workspaces/Talleres/.scala-build/ide-envs.json",
+    "/workspaces/Talleres"
+  ],
+  "version": "1.18.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

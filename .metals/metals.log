@@ -1,0 +1,43 @@
+2026.10.16 02:27:03 INFO  Started: Metals version 1.6.9 in folders '/workspaces/Talleres' for client Visual Studio Code 1.142.0.
+2026.10.16 02:27:03 INFO  Memory monitor started
+2026.10.16 02:27:05 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.16 02:27:07 INFO  Attempting to connect to the build server...
+2026.10.16 02:27:07 INFO  Running BSP server List(/home/vscode/.sdkman/candidates/scalacli/current/bin/scala-cli, bsp, --json-options, /workspaces/Talleres/.scala-build/ide-options-v2.json, --json-launcher-options, /workspaces/Talleres/.scala-build/ide-launcher-options.json, --envs-file, /workspaces/Talleres/.scala-build/ide-envs.json, /workspaces/Talleres)
+2026.10.16 02:27:08 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /workspaces/Talleres/.metals/bsp.trace.json or /home/vscode/.cache/metals/bsp.trace.json
+2026.10.16 02:27:17 INFO  BSP server: Starting compilation server
+2026.10.16 02:27:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0-sources.jar
+2026.10.16 02:27:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0-sources.jar
+2026.10.16 02:27:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0-sources.jar
+2026.10.16 02:27:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0-sources.jar
+2026.10.16 02:27:24 INFO  time: Connected to build server in 17s
+2026.10.16 02:27:24 INFO  Connected to Build server: scala-cli v1.18.0
+2026.10.16 02:27:25 INFO  time: Imported build in 0.31s
+2026.10.16 02:27:30 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.16 02:27:53 INFO  time: indexed workspace in 28s
+Oct 16, 2026 2:30:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.10.16 02:34:23 INFO  Started: Metals version 1.6.9 in folders '/workspaces/Talleres' for client Visual Studio Code 1.142.0.
+2026.10.16 02:34:23 INFO  Memory monitor started
+2026.10.16 02:34:26 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.16 02:34:26 INFO  Attempting to connect to the build server...
+2026.10.16 02:34:26 INFO  Running BSP server List(/home/vscode/.sdkman/candidates/scalacli/current/bin/scala-cli, bsp, --json-options, /workspaces/Talleres/.scala-build/ide-options-v2.json, --json-launcher-options, /workspaces/Talleres/.scala-build/ide-launcher-options.json, --envs-file, /workspaces/Talleres/.scala-build/ide-envs.json, /workspaces/Talleres)
+2026.10.16 02:34:27 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /workspaces/Talleres/.metals/bsp.trace.json or /home/vscode/.cache/metals/bsp.trace.json
+2026.10.16 02:34:29 INFO  time: Connected to build server in 2.36s
+2026.10.16 02:34:29 INFO  Connected to Build server: scala-cli v1.18.0
+2026.10.16 02:34:29 INFO  time: Imported build in 0.23s
+2026.10.16 02:34:33 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.16 02:34:37 INFO  time: indexed workspace in 7.41s
+Oct 16, 2026 2:34:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 16, 2026 2:34:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 16, 2026 2:34:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 16, 2026 2:34:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 16, 2026 2:34:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 16, 2026 2:34:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 16, 2026 2:34:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
